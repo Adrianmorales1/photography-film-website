@@ -1,0 +1,9 @@
+.cn0{height:100%;display:block;color:var(--foreground);font-family:Comfortaa;font-size:18px;font-weight:400;font-style:normal;line-height:20px;letter-spacing:normal;word-spacing:0px;text-align:start;text-transform:none;white-space:normal;word-break:normal;overflow-wrap:normal;text-indent:0px;text-shadow:none;font-variant-caps:normal;font-feature-settings:normal;list-style-position:outside;writing-mode:horizontal-tb;direction:ltr;background-color:var(--background);background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-attachment:fixed}
+[data-ditto-id="style-fullname-1-0-firstname"]::placeholder{color:rgb(102, 100, 78)}
+[data-ditto-id="style-fullname-1-0-lastname"]::placeholder{color:rgb(102, 100, 78)}
+[data-ditto-id="style-email-2-0"]::placeholder{color:rgb(102, 100, 78)}
+[data-ditto-id="style-date-2-1"]::placeholder{color:rgb(102, 100, 78)}
+[data-ditto-id="style-textarea-4-0"]::placeholder{color:rgb(102, 100, 78)}
+/* Stage 4 — interaction states (hover/focus + eased transitions) */
+[data-ditto-id="style-button"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-button"]:hover{transform:matrix(0.961582, 0, 0, 0.961582, 0, 0)}

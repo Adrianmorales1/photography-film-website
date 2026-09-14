@@ -1,0 +1,89 @@
+{
+  "coverage": {
+    "cloned": 5,
+    "cms": 0,
+    "discovered": 5,
+    "passthrough": 0,
+    "unresolved": 0
+  },
+  "extraction": {
+    "adapter": "generic-jsonld",
+    "adapterVersion": "1",
+    "discoveredCount": 0,
+    "extractedAt": "1970-01-01T00:00:00.000Z",
+    "extractedCount": 0,
+    "failures": []
+  },
+  "families": [],
+  "manifestHash": "7f5e553cc8a64202d656c282e33552fe2dce246aa0bbd91606037903ceb765eb",
+  "plannedClone": {
+    "capturedRenderers": [],
+    "failedRoutes": [],
+    "plan": {
+      "dispositions": [
+        {
+          "kind": "static",
+          "path": "/"
+        },
+        {
+          "kind": "static",
+          "path": "/photography"
+        },
+        {
+          "kind": "static",
+          "path": "/production"
+        },
+        {
+          "kind": "static",
+          "path": "/hines"
+        },
+        {
+          "kind": "static",
+          "path": "/contact"
+        }
+      ],
+      "entryRoute": "/",
+      "manifests": [],
+      "renderers": [],
+      "staticRoutes": [
+        "/",
+        "/photography",
+        "/production",
+        "/hines",
+        "/contact"
+      ],
+      "version": "ion-clone-plan-v1"
+    },
+    "version": "ion-clone-plan-v1"
+  },
+  "routes": [
+    {
+      "disposition": "cloned",
+      "routePath": "/"
+    },
+    {
+      "disposition": "cloned",
+      "routePath": "/contact"
+    },
+    {
+      "disposition": "cloned",
+      "routePath": "/hines"
+    },
+    {
+      "disposition": "cloned",
+      "routePath": "/photography"
+    },
+    {
+      "disposition": "cloned",
+      "routePath": "/production"
+    }
+  ],
+  "schema": "ion-cms-v1",
+  "source": {
+    "origin": "https://www.professorhines.com",
+    "platform": "unknown",
+    "scope": "cms-manifests",
+    "url": "https://www.professorhines.com/"
+  },
+  "version": 1
+}

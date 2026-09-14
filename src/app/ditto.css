@@ -1,0 +1,28 @@
+.cn0{height:100%;display:block;color:var(--foreground);font-family:Comfortaa;font-size:18px;font-weight:400;font-style:normal;line-height:20px;letter-spacing:normal;word-spacing:0px;text-align:start;text-transform:none;white-space:normal;word-break:normal;overflow-wrap:normal;text-indent:0px;text-shadow:none;font-variant-caps:normal;font-feature-settings:normal;list-style-position:outside;writing-mode:horizontal-tb;direction:ltr;background-color:var(--background);background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-attachment:fixed}
+
+/* Stage 4 — interaction states (hover/focus + eased transitions) */
+[data-ditto-id="style-div-2"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-fullname-1-0-lastname"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-span"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-link"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-a"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-3"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-link-2"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-span-2"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-4"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-5"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-gallery-0"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-p"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-link"]:hover{transform:matrix(0.961591, 0, 0, 0.961591, 0, 0)}
+[data-ditto-id="style-a"]:hover{transform:matrix(0.961594, 0, 0, 0.961594, 0, 0)}
+[data-ditto-id="style-div-3"]:hover{transform:matrix(0.964012, 0, 0, 0.964012, 0, 0)}
+[data-ditto-id="style-link-2"]:hover{transform:matrix(0.961597, 0, 0, 0.961597, 0, 0)}
+[data-ditto-id="style-span-2"]:hover{transform:matrix(0.963993, 0, 0, 0.963993, 0, 0)}
+[data-ditto-id="style-div-4"]:hover{transform:matrix(0.961589, 0, 0, 0.961589, 0, 0)}
+[data-ditto-id="style-div-5"]:hover{transform:matrix(0.957373, 0, 0, 0.957373, 0, 0)}
+[data-ditto-id="style-gallery-0"]:hover{transform:matrix(0.961581, 0, 0, 0.961581, 0, 0)}
+[data-ditto-id="style-p"]:hover{transform:matrix(0.961583, 0, 0, 0.961583, 0, 0)}
+[data-ditto-id="style-fieldcontainer-0-0"]:hover{transform:matrix(0.961586, 0, 0, 0.961586, 0, 0)}
+[data-ditto-id="style-div-2"]:hover{transform:matrix(0.961589, 0, 0, 0.961589, 0, 0)}
+[data-ditto-id="style-fullname-1-0-lastname"]:hover{transform:matrix(0.961592, 0, 0, 0.961592, 0, 0)}
+[data-ditto-id="style-span"]:hover{transform:matrix(0.961594, 0, 0, 0.961594, 0, 0)}

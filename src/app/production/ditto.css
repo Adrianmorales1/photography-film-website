@@ -1,0 +1,5 @@
+.cn0{height:100%;display:block;color:var(--foreground);font-family:Comfortaa;font-size:18px;font-weight:400;font-style:normal;line-height:20px;letter-spacing:normal;word-spacing:0px;text-align:start;text-transform:none;white-space:normal;word-break:normal;overflow-wrap:normal;text-indent:0px;text-shadow:none;font-variant-caps:normal;font-feature-settings:normal;list-style-position:outside;writing-mode:horizontal-tb;direction:ltr;background-color:var(--background);background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-attachment:fixed}
+
+/* Stage 4 — interaction states (hover/focus + eased transitions) */
+[data-ditto-id="style-div-13"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-13"]:hover{transform:matrix(0.9616, 0, 0, 0.9616, 0, 0)}

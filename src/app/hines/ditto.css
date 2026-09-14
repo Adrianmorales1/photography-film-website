@@ -1,0 +1,17 @@
+.cn0{height:100%;display:block;color:var(--foreground);font-family:Comfortaa;font-size:18px;font-weight:400;font-style:normal;line-height:20px;letter-spacing:normal;word-spacing:0px;text-align:start;text-transform:none;white-space:normal;word-break:normal;overflow-wrap:normal;text-indent:0px;text-shadow:none;font-variant-caps:normal;font-feature-settings:normal;list-style-position:outside;writing-mode:horizontal-tb;direction:ltr;background-color:var(--background);background-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-attachment:fixed}
+
+/* Stage 4 — interaction states (hover/focus + eased transitions) */
+[data-ditto-id="style-span-3"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-6"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-div-7"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-heading"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-link-3"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-span-4"]{transition:transform 0.5s ease-in-out}
+[data-ditto-id="style-strong"]:hover{opacity:0.42404}
+[data-ditto-id="style-span-3"]:hover{transform:matrix(0.961585, 0, 0, 0.961585, 0, 0)}
+[data-ditto-id="style-div-6"]:hover{transform:matrix(0.9616, 0, 0, 0.9616, 0, 0)}
+[data-ditto-id="style-div-7"]:hover{transform:matrix(0.961581, 0, 0, 0.961581, 0, 0)}
+[data-ditto-id="style-heading"]:hover{transform:matrix(0.961593, 0, 0, 0.961593, 0, 0)}
+[data-ditto-id="style-link-3"]:hover{transform:matrix(0.963996, 0, 0, 0.963996, 0, 0)}
+[data-ditto-id="style-span-4"]:hover{transform:matrix(0.961584, 0, 0, 0.961584, 0, 0)}
+[data-ditto-id="style-strong"]:focus{opacity:0.0903552}
